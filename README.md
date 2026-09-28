@@ -1,4 +1,4 @@
-<p align="left"><img src="https://res.cloudinary.com/dntogqtey/image/upload/v1730825115/EVAVO_Logo_Small_Cherry_ClearBG_mn4.svg" width="84" alt="EVAVO logo"></p>
+<p align="center"><img src="./assets/evavo-logo.svg" width="560" alt="EVAVO Studio"></p>
 
 # EVAVO Studio
 
