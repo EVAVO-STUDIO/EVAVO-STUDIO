@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: EVAVO Studio
+  - name: EVAVO Studio enquiries
+    url: https://evavo.com.au/contact
+    about: Project, studio and general enquiries should use the EVAVO website.
+  - name: Security reporting
     url: https://evavo.com.au
-    about: For project enquiries, studio contact and private security reporting, contact EVAVO directly.
+    about: Do not post vulnerabilities, credentials or sensitive data in a public issue. Follow SECURITY.md and contact EVAVO privately.
