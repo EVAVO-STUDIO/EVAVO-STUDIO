@@ -1,38 +1,53 @@
-<p align="center"><img src="./assets/evavo-logo.svg" width="560" alt="EVAVO Studio"></p>
+<p align="center">
+  <img src="./assets/evavo-logo.svg" alt="EVAVO Studio" width="560" />
+</p>
 
-# EVAVO Studio
+<h1 align="center">EVAVO Studio</h1>
 
-**Creative technology for ambitious digital products, interactive experiences and intelligent systems.**
+<p align="center"><strong>Australian creative technology studio for ambitious digital products, intelligent automation and interactive systems.</strong></p>
 
-EVAVO is an Australian boutique creative technology studio bringing product thinking, visual design and software engineering together across premium web, digital products, AI-enabled automation, interactive 3D, realtime systems and games.
+EVAVO is an independent boutique studio combining design, software engineering and technical production. We build polished digital experiences, specialist platforms and production systems for work that benefits from more than an off-the-shelf stack.
 
-We build complete digital systems rather than isolated deliverables — from experience and interface through application logic, automation, infrastructure, deployment and the production tooling behind the work.
+Our work spans commercial delivery and private studio R&D across Australia, New Zealand and remote international collaboration.
 
-## Studio focus
+## Studio capabilities
 
-| Area | What we work on |
-| --- | --- |
-| **Digital products & advanced web** | Purpose-built applications, product interfaces, high-performance websites and bespoke web experiences. |
-| **Creative engineering** | Interactive frontend systems, motion, realtime graphics, WebGL and specialist creative tooling. |
-| **AI & automation** | Governed AI workflows, internal automation, operational systems and intelligent product features. |
-| **3D, games & simulation** | Godot and Three.js systems, 3D production pipelines, materials, environments, simulation and automated game QA. |
-| **Construction technology** | Project delivery, claims, compliance, commercial-control and client-facing digital systems for the built environment. |
+**Digital products & advanced web**  
+Websites, web applications, product interfaces, commerce, content systems and high-performance digital experiences.
+
+**AI-enabled automation & intelligent operations**  
+Review-aware agents, research systems, internal tools, workflow automation and operational software designed to reduce repetitive work without removing human control.
+
+**Creative production technology**  
+Specialist tooling and governed pipelines for vector, motion, 3D, materials, environments, media and asset production.
+
+**Realtime, 3D & interactive systems**  
+Browser and engine-based experiences, realtime visual systems, simulation, interactive installations and technical prototypes.
+
+**Games & simulation**  
+Game systems, deterministic simulation, production tooling, automated runtime testing and cross-platform delivery.
+
+**Construction & built-environment technology**  
+Project delivery, claims, payment assurance, defects, reporting, commercial controls and operational software designed around AU/NZ workflows.
 
 ## Engineering
 
-**Languages** — TypeScript · JavaScript · Python · C#  
-**Product & web** — React · Next.js · Node.js  
-**Realtime & 3D** — Godot · Three.js · WebGL  
-**Infrastructure** — Cloudflare · Vercel · GitHub
+`TypeScript` · `JavaScript` · `Python` · `C#` · `GDScript` · `Next.js` · `Node.js` · `Godot` · `Cloudflare` · `Vercel`
 
-## Private by design
+Behind the public profile, EVAVO maintains a private engineering and R&D estate covering client delivery, original products, creative-production tooling, games, automation, testing, infrastructure and operational systems.
 
-Most EVAVO client delivery, commercial product work, internal R&D, automation infrastructure and unreleased game development is maintained in private repositories.
+That private-by-default model is deliberate. Public GitHub is a studio-facing surface, not a dump of client code or proprietary production infrastructure.
 
-This public GitHub surface is deliberately curated. Repositories are released externally only after security, licensing, documentation and intellectual-property boundaries have been reviewed. A small public footprint here does not represent the scale of the private studio development estate.
+## Bespoke over borrowed
+
+We design around the actual outcome rather than forcing every brief into the same stack. Proven foundations are reused where they improve reliability, speed and security; custom engineering goes where it materially improves the product, brand or operating model.
+
+Automation cuts repetitive work, not judgement or craft. Security, privacy, accessibility, performance and verification are treated as part of the build.
 
 ## EVAVO
 
-Australia-based, working across Australia and New Zealand.
+Creative technology · digital products · advanced web · AI automation · interactive 3D · games · construction technology
 
-**Studio:** https://evavo.com.au
+**Australia · AU/NZ · remote**
+
+[evavo.com.au](https://evavo.com.au)
