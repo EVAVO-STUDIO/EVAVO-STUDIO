@@ -30,6 +30,17 @@ Game systems, deterministic simulation, production tooling, automated runtime te
 **Construction & built-environment technology**  
 Project delivery, claims, payment assurance, defects, reporting, commercial controls and operational software designed around AU/NZ workflows.
 
+## Selected public work
+
+- **[Custom Web Applications](https://evavo.com.au/work/custom-web-applications)** — purpose-built portals, dashboards, internal tools and workflow systems designed around the actual operating process.
+- **[Growth Autopilot](https://evavo.com.au/work/opportunity-agent)** — bounded opportunity intelligence, research memory, audit packs, scoring and operator-reviewed automation.
+- **[EVA Chat](https://evavo.com.au/work/evachat)** — a character-led AI website assistant for approved knowledge, natural conversation, lead routing and human handoff.
+- **[Project Delivery Support Limited](https://evavo.com.au/work/project-delivery-support-limited)** — branding and responsive web delivery for a project-delivery business.
+- **[New Wave Synergy](https://evavo.com.au/work/newwavesynergycasestudy)** — digital presentation and delivery clarity for construction and infrastructure support.
+- **[Moon Man](https://evavo.com.au/work/moon-man)** — a small EVAVO creative video and visual-production experiment.
+
+[Explore EVAVO work →](https://evavo.com.au/work)
+
 ## Engineering
 
 `TypeScript` · `JavaScript` · `Python` · `C#` · `GDScript` · `Next.js` · `Node.js` · `Godot` · `Cloudflare` · `Vercel`
